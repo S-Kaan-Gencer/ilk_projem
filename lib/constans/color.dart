@@ -1,0 +1,1 @@
+const String backgroundColor = "#a8d6ee";
